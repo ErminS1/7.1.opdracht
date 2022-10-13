@@ -1,0 +1,36 @@
+
+  
+  .right {
+    background-color: rgb(218, 46, 12);
+    float: center;
+    width: 20%;
+    padding: 1px 800px;
+    margin-top: 7px;
+  }
+
+
+.title2 {
+  background-color: rgb(214, 214, 12);
+  float: center;
+  width: 20%;
+  padding: 1px 800px;
+  margin-top: 7px;
+}
+
+.title3 {
+    background-color: rgb(214, 116, 12);
+    float: center;
+    width: 20%;
+    padding: 1px 800px;
+    margin-top: 7px;
+  }
+
+  .title4 {
+    background-color: rgb(12, 214, 36);
+    float: center;
+    width: 20%;
+    padding: 1px 800px;
+    margin-top: 7px;
+  }
+  
+  
